@@ -21,7 +21,7 @@
     "@angular/platform-browser": "^18.2.4",
     "@angular/platform-browser-dynamic": "^18.2.4",
     "@angular/router": "^18.2.4",
-    "@sentry/angular-ivy": "^7.101.1",
+    "@sentry/angular-ivy": "^7.119.0",
     "@sentry/cli": "^2.28.6",
     "date-fns": "^3.3.1",
     "ngx-toastr": "^18.0.0",
